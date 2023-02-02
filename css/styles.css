@@ -1,7 +1,21 @@
+body {
+    background-color: #E7C296;
+    margin: 8px;
+}
+
 .footer a {
     margin: 0 10px;
-    color: ;
+    color: #552800;
 }
 div, h1, p {
     text-align: center;
+}
+img {
+    max-width: 85%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+p a {
+    color: #552800;
 }
